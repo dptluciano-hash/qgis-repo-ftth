@@ -146,7 +146,7 @@ def build_xml(plugins, base_url, today):
             f'    <version>{escape(p["version"])}</version>',
             f'    <qgis_minimum_version>{escape(p["qgis_min"])}</qgis_minimum_version>',
             f'    <qgis_maximum_version>{escape(p["qgis_max"])}</qgis_maximum_version>',
-            f'    <homepage>{escape(p["homepage"] or base_url)}</homepage>',
+            f'    <homepage>{escape(p["homepage"])}</homepage>',
             f'    <file_name>{escape(p["zip_file"])}</file_name>',
             f'    <icon>{escape(icon_url)}</icon>',
             f'    <author_name>{escape(p["author"])}</author_name>',
