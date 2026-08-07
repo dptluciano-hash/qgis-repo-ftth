@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+  <pyqgis_plugin name="FTTH Permessi Manager" version="0.69">
+    <description>Gestione permessi FTTH: selezione elementi in rete, punti di ripresa fotografici, keyplan e tavole, chilometriche da cippi, etichette di posa, evidenza delle strade interessate e shape di consegna.</description>
+    <about>Plugin QGIS per la gestione dei permessi FTTH lungo l'intero flusso di lavoro. Ramo Comune: selezione guidata degli elementi di rete da mettere a permesso (tratte, pozzetti, PTE, edifici), allineamento della cartografia, copertura automatica con Keyplan e Tavole di inquadramento, punti di ripresa fotografici davanti agli Armadi Ottici e sugli attraversamenti, export dei tre shape di consegna (ARMADI_FOTO, SCAVI_STRADE, POZZETTI_STRADE) con aggiornamento dei campi lunghezza, esportazione PDF dei layout e unione in un unico file. Ramo Altri Enti (ANAS, Provinciali): calcolo delle chilometriche a partire dai cippi, misurate lungo la strada ricucita in corridoi continui; compilazione delle etichette di posa da stampare in tavola, con resa leggibile su CTR e ortofoto; evidenza a retino delle strade interessate dai lavori, con il nome della strada scritto una sola volta per la stampa. Guida in linea in ogni scheda. Changelog dettagliato di ogni versione nel README del plugin.</about>
+    <version>0.69</version>
+    <qgis_minimum_version>3.16</qgis_minimum_version>
+    <qgis_maximum_version>3.99</qgis_maximum_version>
+    <homepage>https://TUOUSERNAME.github.io/qgis-repo-ftth/</homepage>
+    <file_name>FTTH_PERMIT_MANAGER.zip</file_name>
+    <icon>https://TUOUSERNAME.github.io/qgis-repo-ftth/icons/FTTH_PERMIT_MANAGER.png</icon>
+    <author_name>Luciano</author_name>
+    <download_url>https://TUOUSERNAME.github.io/qgis-repo-ftth/FTTH_PERMIT_MANAGER.zip?v=0.69</download_url>
+    <uploaded_by>Luciano</uploaded_by>
+    <create_date>2026-08-07</create_date>
+    <update_date>2026-08-07</update_date>
+    <experimental>False</experimental>
+    <deprecated>False</deprecated>
+    <tracker></tracker>
+    <repository></repository>
+    <tags></tags>
+  </pyqgis_plugin>
+</plugins>
