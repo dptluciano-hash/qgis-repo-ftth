@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <pyqgis_plugin name="FTTH Permessi Manager" version="1.1">
+  <pyqgis_plugin name="FTTH Permessi Manager" version="1.5">
     <description>Strumento per la gestione dell'iter di permesso: selezione della rete, tavole e keyplan, chilometriche, etichette di posa e shape di consegna.</description>
     <about>Copre l'intero flusso di lavoro, dalla selezione degli elementi di rete fino alla produzione dei file da consegnare, sia per le pratiche verso il Comune sia verso altri Enti (ANAS, Province). . Guida contestuale in ogni scheda. Changelog completo nel CHANGELOG.</about>
-    <version>1.1</version>
+    <version>1.5</version>
     <qgis_minimum_version>3.16</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
     <homepage></homepage>
     <file_name>FTTH_PERMIT_MANAGER.zip</file_name>
     <icon>https://dptluciano-hash.github.io/qgis-repo-ftth/icons/FTTH_PERMIT_MANAGER.png</icon>
     <author_name>Luciano</author_name>
-    <download_url>https://dptluciano-hash.github.io/qgis-repo-ftth/FTTH_PERMIT_MANAGER.zip?v=1.1</download_url>
+    <download_url>https://dptluciano-hash.github.io/qgis-repo-ftth/FTTH_PERMIT_MANAGER.zip?v=1.5</download_url>
     <uploaded_by>Luciano</uploaded_by>
     <create_date>2026-09-04</create_date>
     <update_date>2026-09-04</update_date>
